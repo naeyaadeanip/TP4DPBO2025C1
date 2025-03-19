@@ -6,7 +6,32 @@ Saya Naeya Adeani Putri dengan NIM 2304017 mengerjakan Tugas Praktikum Latihan 4
 # Desain Program
 ![desain](https://github.com/user-attachments/assets/f311144a-ef6b-41c1-a157-668fea345a42)
 
+# Struktur Program
+Terdiri dari dua bagian utama:
+
+**Mahasiswa.java** → Menyimpan data mahasiswa.
+
+**Menu.java** → Menangani tampilan dan fungsi program.
+
 # Alur Program
+  1. **Inisialisasi Program**
+     - Saat program dijalankan, tampilan utama akan muncul dengan tabel daftar mahasiswa.
+     - Beberapa data dummy otomatis dimasukkan ke dalam daftar mahasiswa.
+       
+  2. **Menampilkan Data Mahasiswa**
+     - Semua data mahasiswa yang tersimpan dalam ArrayList<Mahasiswa> akan ditampilkan dalam tabel di GUI.
+       
+  3. **Menambah Data Mahasiswa**
+     - Pengguna bisa menambahkan mahasiswa baru lewat form input.
+     - Setelah disimpan, data baru langsung muncul di tabel.
+       
+  4. **Mengubah Data Mahasiswa**
+     - Pengguna bisa memilih mahasiswa yang sudah ada untuk diedit.
+     - Setelah diedit dan disimpan, tabel akan diperbarui dengan data terbaru.
+       
+  5. **Menghapus Data Mahasiswa**
+     - Pengguna bisa menghapus mahasiswa yang dipilih dari tabel.
+     - Data yang dihapus juga akan dihapus dari daftar mahasiswa.
 
 # Dokumentasi
 ## Homepage
