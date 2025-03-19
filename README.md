@@ -4,7 +4,7 @@
 Saya Naeya Adeani Putri dengan NIM 2304017 mengerjakan Tugas Praktikum Latihan 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain Program
-![desain](https://github.com/user-attachments/assets/f311144a-ef6b-41c1-a157-668fea345a42)
+![desain](https://github.com/user-attachments/assets/c128922f-6fe1-40c3-8ffd-7d3e86a23b49)
 
 # Struktur Program
 Terdiri dari dua bagian utama:
