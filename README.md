@@ -28,4 +28,4 @@ Saya Naeya Adeani Putri dengan NIM 2304017 mengerjakan Tugas Praktikum Latihan 4
 ![delete](https://github.com/user-attachments/assets/be527a42-708a-4e42-9f6b-2ac4380053f3)
 
 ## Hasil setelah delete
-![delete](https://github.com/user-attachments/assets/c4c553c4-3f59-48e0-88a2-a0e466ee8827)
+![hasil setelah delete](https://github.com/user-attachments/assets/2e35ac8e-d152-4d7a-bbd5-4e2ff72abbdc)
